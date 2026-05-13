@@ -1,0 +1,12 @@
+roboflow
+ultralytics
+mlflow
+opencv-python
+matplotlib
+seaborn
+pandas
+pillow
+pyyaml
+python-dotenv
+ipykernel
+notebook
