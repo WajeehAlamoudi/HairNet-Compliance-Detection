@@ -1,2 +1,5 @@
 /.claude/
 /.venv/
+/HairNet-Compliance-Detection-1/
+/mlruns/
+*.zip
