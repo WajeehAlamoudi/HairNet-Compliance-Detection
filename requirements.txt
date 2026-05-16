@@ -10,3 +10,8 @@ pyyaml
 python-dotenv
 ipykernel
 notebook
+fastapi
+uvicorn
+python-multipart
+requests
+numpy
